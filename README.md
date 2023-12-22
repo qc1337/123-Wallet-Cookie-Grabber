@@ -66,4 +66,4 @@
 
 ## CREDITS
 
-**JOIN DISCORD** [Join Discord Server](https://discord.gg/5xEg3GXD)
+[Join Discord Server](https://discord.gg/5xEg3GXD)
