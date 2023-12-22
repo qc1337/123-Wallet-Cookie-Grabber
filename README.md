@@ -47,6 +47,7 @@
     -> Crypto Miner
     -> Cc Grabber With Binder To Match Details
     -> Roblox Cookie Grabber (Actually Grabs Login Able Cookies)
+    -> Fixed 75% Of Old Sripts So This Is The Best Grabber Out!
   
 ## RQUIREMENTS
 
