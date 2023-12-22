@@ -1,5 +1,5 @@
 <h1 align="center">
-   123 Grabber v1.0
+   123 Wallet & Cookie Grabber
 </h1>
 <p align= "center">
    <kbd>
@@ -41,7 +41,13 @@
     • Captures Screenshot.
     • Captures Webcam Image.
     • Sends All Data Through Discord Webhooks/Telegram Bot.  (updated)
-    
+
+## FIXED/ ADDED SCRIPTS
+
+    -> Crypto Miner
+    -> Cc Grabber With Binder To Match Details
+    -> Roblox Cookie Grabber (Actually Grabs Login Able Cookies)
+  
 ## RQUIREMENTS
 
 - Windows 10.
